@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P32-001,快餐品类/品牌步骤,食品/流程步骤,类别/顺序,,,"品类分类与设计流程",待逐项转录,"课程PDF第32页；两块内容分开建表"
+P32-002,Fast Food Nation / branding process,案例分类,底层数据组织,编目型/流程,,"品类分类与设计流程",结构判读,"视觉形式：食品信息图+品牌流程"
+P32-003,Fast Food Nation / branding process,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P32-004,Fast Food Nation / branding process,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
