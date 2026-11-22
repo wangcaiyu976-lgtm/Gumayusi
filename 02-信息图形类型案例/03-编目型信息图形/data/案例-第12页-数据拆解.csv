@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P12-001,近七任教皇；教皇方济各著作,教皇/著作,任期/出版年份/著作数,,,"人物任期时间顺序；著作编目",待逐项转录,"来源：课程PDF第12页；2018年著作条目需逐项转录"
+P12-002,Gli ultimi sette papi,案例分类,底层数据组织,编年型,,"人物任期时间顺序；著作编目",结构判读,"视觉形式：历史放射图+出版物列表"
+P12-003,Gli ultimi sette papi,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P12-004,Gli ultimi sette papi,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
