@@ -1,0 +1,4 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P03-001,Gear/齿轮相关事件或阶段,事件/阶段,日期或年份,,,"时间顺序",待逐项转录,"来源：课程PDF第03页《Gear Timeline》；不以推测补值"
+P03-002,Gear Timeline,案例类型,底层数据组织,编年型,,"时间顺序",图面结构判读,"视觉形式：时间轴；此项为结构分类，不是原始数值"
+P03-003,Gear Timeline,数据范围,样本范围,,,,"待核验","需从原图标注或原始来源确认"
