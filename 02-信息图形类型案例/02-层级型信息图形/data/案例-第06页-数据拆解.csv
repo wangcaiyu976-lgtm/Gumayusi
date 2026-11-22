@@ -1,0 +1,4 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P06-001,演化对象/层级,演化阶段,层级位置,,,"层级或地层关系",待逐项转录,"来源：课程PDF第06页《Evolution Emerging》；不以推测补值"
+P06-002,Evolution Emerging,案例类型,底层数据组织,层级型,,"层级或地层关系",图面结构判读,"视觉形式：演化层级图；此项为结构分类，不是原始数值"
+P06-003,Evolution Emerging,数据范围,样本范围,,,,"待核验","需从原图标注或原始来源确认"
