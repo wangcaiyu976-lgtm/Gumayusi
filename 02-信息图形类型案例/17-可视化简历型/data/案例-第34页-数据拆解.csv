@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P34-001,个人经历/技能/教育,人物/经历/技能,年份/技能项,,,"履历字段分类",待逐项转录,"课程PDF第34页；分别按简历主体记录"
+P34-002,Visual resumes,案例分类,底层数据组织,编目型,,"履历字段分类",结构判读,"视觉形式：简历信息图"
+P34-003,Visual resumes,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P34-004,Visual resumes,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
