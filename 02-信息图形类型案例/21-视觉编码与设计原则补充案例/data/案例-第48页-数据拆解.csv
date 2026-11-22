@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P48-001,瓶装水品牌/市场指标,品牌/指标,市场数值/份额,,,"品牌类别与市场指标",待逐项转录,"课程PDF第48页；品牌和指标值需逐项读取"
+P48-002,Egyptian bottled water market,案例分类,底层数据组织,统计图形/编目型,,"品牌类别与市场指标",结构判读,"视觉形式：市场主题信息图"
+P48-003,Egyptian bottled water market,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P48-004,Egyptian bottled water market,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
