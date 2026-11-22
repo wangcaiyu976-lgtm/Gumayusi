@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P33-001,海马部位/AT-AT部件,部位/部件,名称/位置,,,"整体-部件关系",待逐项转录,"课程PDF第33页；两个对象的部件不可混并"
+P33-002,Seahorse and AT-AT anatomy,案例分类,底层数据组织,编目型,,"整体-部件关系",结构判读,"视觉形式：生物/机械解剖标注图"
+P33-003,Seahorse and AT-AT anatomy,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P33-004,Seahorse and AT-AT anatomy,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
