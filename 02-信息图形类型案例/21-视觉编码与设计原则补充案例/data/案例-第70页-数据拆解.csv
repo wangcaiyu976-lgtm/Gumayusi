@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P70-001,评估原则/视觉示例,原则/示例,类别/说明,,,"原则分类与示例对应",待逐项转录,"课程PDF第70页；每条原则与图例配对"
+P70-002,Visual evaluation guidance,案例分类,底层数据组织,编目型,,"原则分类与示例对应",结构判读,"视觉形式：评估原则/示例图"
+P70-003,Visual evaluation guidance,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P70-004,Visual evaluation guidance,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
