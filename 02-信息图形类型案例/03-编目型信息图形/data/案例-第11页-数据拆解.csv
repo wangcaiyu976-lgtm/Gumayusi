@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P11-001,毕加索作品类别,作品类别,作品数/流量,,,"作品类别之间的流向/数量关系",待逐项转录,"来源：课程PDF第11页；具体类别和数值需按图逐项转录"
+P11-002,Picasso paintings,案例分类,底层数据组织,编目型,,"作品类别之间的流向/数量关系",结构判读,"视觉形式：分类目录+流向图"
+P11-003,Picasso paintings,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P11-004,Picasso paintings,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
