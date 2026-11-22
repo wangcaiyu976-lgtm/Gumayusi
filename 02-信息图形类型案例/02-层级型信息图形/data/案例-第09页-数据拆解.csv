@@ -1,0 +1,4 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P09-001,美国县/地区,县/地区,病例数或图例等级,,,"地理归属与病例等级",待逐项转录,"来源：课程PDF第09页《COVID-19 US county map》；不以推测补值"
+P09-002,COVID-19 US county map,案例类型,底层数据组织,地理图形型,,"地理归属与病例等级",图面结构判读,"视觉形式：美国县级分级设色地图；此项为结构分类，不是原始数值"
+P09-003,COVID-19 US county map,数据范围,样本范围,,,,"待核验","需从原图标注或原始来源确认"
