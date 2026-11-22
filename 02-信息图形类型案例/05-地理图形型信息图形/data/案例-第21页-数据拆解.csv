@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P21-001,指标/地区,指标/地区,比例/数值/地区,,,"指标比较与地理分布",待逐项转录,"课程PDF第21页；每个环图单独建立指标字段"
+P21-002,Circular dashboards and UK map,案例分类,底层数据组织,统计图形/混合,,"指标比较与地理分布",结构判读,"视觉形式：环形仪表盘+英国地图"
+P21-003,Circular dashboards and UK map,结构关系,节点/分类/连接,,,,"待从图面提取","需要逐项记录所有可见实体、层级、顺序、连接或空间位置"
+P21-004,Circular dashboards and UK map,数据来源,原始数据出处,,,,"待核验","若图面无来源说明则保持空值，不推测来源"
