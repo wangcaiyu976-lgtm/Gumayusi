@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P45-001,评价问题/维度,评价维度,问题/类别,,,"评价维度分类与循环布局",待逐项转录,"课程PDF第45页；逐条转录每个维度及题项"
+P45-002,Testing wheel for infographic evaluation,案例分类,底层数据组织,编目型,,"评价维度分类与循环布局",结构判读,"视觉形式：评价维度环形清单"
+P45-003,Testing wheel for infographic evaluation,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P45-004,Testing wheel for infographic evaluation,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
