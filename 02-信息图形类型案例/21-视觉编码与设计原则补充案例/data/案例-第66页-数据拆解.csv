@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P66-001,经济阶段/指标,阶段/指标,数值/单位/时期,,,"经济指标随阶段变化",待逐项转录,"课程PDF第66页；标题数字41,908与143.3 BILLION的字段和单位须回图核验"
+P66-002,Evolution of an economy,案例分类,底层数据组织,统计图形/编年型,,"经济指标随阶段变化",结构判读,"视觉形式：经济演化信息图"
+P66-003,Evolution of an economy,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P66-004,Evolution of an economy,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
