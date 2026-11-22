@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P13-001,吉他部件,吉他部件,部件名称/位置,,,"部件与整体位置关系",待逐项转录,"来源：课程PDF第13页；需逐项提取部件标签"
+P13-002,Guitar anatomy,案例分类,底层数据组织,编目型,,"部件与整体位置关系",结构判读,"视觉形式：乐器解剖标注图"
+P13-003,Guitar anatomy,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P13-004,Guitar anatomy,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
