@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P20-001,河流河道/时期,河段/时期,河道位置/时期,,,"历史与现状河道空间变化",待逐项转录,"课程PDF第20页；两幅地图需按同一河流分时记录"
+P20-002,River course maps,案例分类,底层数据组织,地理图形型,,"历史与现状河道空间变化",结构判读,"视觉形式：河道地图对照"
+P20-003,River course maps,结构关系,节点/分类/连接,,,,"待从图面提取","需要逐项记录所有可见实体、层级、顺序、连接或空间位置"
+P20-004,River course maps,数据来源,原始数据出处,,,,"待核验","若图面无来源说明则保持空值，不推测来源"
