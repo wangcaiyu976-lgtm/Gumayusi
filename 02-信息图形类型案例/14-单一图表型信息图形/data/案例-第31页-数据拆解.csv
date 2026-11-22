@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P31-001,摩天大楼/火箭型号,建筑/火箭,高度/年份,,,"数值尺度比较与历史时间关系",待逐项转录,"课程PDF第31页；标题中的量纲和数值需逐项确认"
+P31-002,Sky's the limit / World's Greatest Rockets,案例分类,底层数据组织,统计图形/编年型,,"数值尺度比较与历史时间关系",结构判读,"视觉形式：高度比较柱形图+火箭时间比较"
+P31-003,Sky's the limit / World's Greatest Rockets,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P31-004,Sky's the limit / World's Greatest Rockets,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
