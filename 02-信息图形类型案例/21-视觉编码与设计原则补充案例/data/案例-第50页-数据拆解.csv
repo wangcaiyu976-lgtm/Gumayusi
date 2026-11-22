@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P50-001,实用设计/装饰设计,设计类别/特征,属性/差异,,,"两类设计特征比较",待逐项转录,"课程PDF第50页；按对照维度逐条列项"
+P50-002,Practical/plain vs decorative design,案例分类,底层数据组织,编目型/比较,,"两类设计特征比较",结构判读,"视觉形式：实用与装饰设计对照"
+P50-003,Practical/plain vs decorative design,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P50-004,Practical/plain vs decorative design,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
