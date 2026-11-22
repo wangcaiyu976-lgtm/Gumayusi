@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P56-001,服装/生产环节/水资源指标,产品/环节/指标,用水量/单位/产品,,,"产品环节与资源消耗关联",待逐项转录,"课程PDF第56页；需逐个产品与用水数值转录"
+P56-002,Water Consumption & Fast Fashion,案例分类,底层数据组织,统计图形/主题信息图,,"产品环节与资源消耗关联",结构判读,"视觉形式：水消耗与快时尚指标图"
+P56-003,Water Consumption & Fast Fashion,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P56-004,Water Consumption & Fast Fashion,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
