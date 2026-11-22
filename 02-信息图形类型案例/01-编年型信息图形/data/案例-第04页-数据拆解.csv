@@ -1,0 +1,4 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P04-001,人物生平/经历节点,人物事件,时间点,,,"时间顺序",待逐项转录,"来源：课程PDF第04页《Francesco Muzzi radial timeline》；不以推测补值"
+P04-002,Francesco Muzzi radial timeline,案例类型,底层数据组织,编年型,,"时间顺序",图面结构判读,"视觉形式：放射时间轴；此项为结构分类，不是原始数值"
+P04-003,Francesco Muzzi radial timeline,数据范围,样本范围,,,,"待核验","需从原图标注或原始来源确认"
