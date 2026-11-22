@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P71-001,示例图/评价维度,示例/维度,说明/类别,,,"评价维度与示例对应",待逐项转录,"课程PDF第71页；逐个示例拆分，不臆测评分"
+P71-002,Visual evaluation examples,案例分类,底层数据组织,编目型/比较,,"评价维度与示例对应",结构判读,"视觉形式：案例对照/评价示例"
+P71-003,Visual evaluation examples,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P71-004,Visual evaluation examples,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
