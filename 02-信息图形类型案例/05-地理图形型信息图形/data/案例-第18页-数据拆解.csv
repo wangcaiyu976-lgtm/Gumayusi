@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P18-001,山体/河流/湖泊,地貌/水体,高程/长度/名称,,,"地形高程关系与水系空间分布",待逐项转录,"来源：课程PDF第18页；不同子图分开记录，数值待逐项转录"
+P18-002,Mountain profile and Rivers and Lakes,案例分类,底层数据组织,地理图形型,,"地形高程关系与水系空间分布",结构判读,"视觉形式：地形剖面+水系地图"
+P18-003,Mountain profile and Rivers and Lakes,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P18-004,Mountain profile and Rivers and Lakes,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
