@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P37-001,天体/空间位置/事件,天体/事件,距离/时间/名称,,,"空间尺度与时间/旅程顺序",待逐项转录,"课程PDF第37页；图示尺度与真实距离需区分"
+P37-002,Cosmic Journeys,案例分类,底层数据组织,地理图形型/编年型,,"空间尺度与时间/旅程顺序",结构判读,"视觉形式：宇宙尺度旅程图"
+P37-003,Cosmic Journeys,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P37-004,Cosmic Journeys,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
