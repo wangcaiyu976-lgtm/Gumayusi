@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P53-001,语言/语系/地区,语言/语系/地区,语言数/使用人数/区域,,,"语言谱系层级与地理分布",待逐项转录,"课程PDF第53页；各数字需标注统计年份和口径"
+P53-002,World of Languages,案例分类,底层数据组织,编目型/地理图形型,,"语言谱系层级与地理分布",结构判读,"视觉形式：语言分类/世界分布图"
+P53-003,World of Languages,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P53-004,World of Languages,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
