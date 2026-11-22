@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P25-001,食材/部件/装配步骤,食材/步骤,部件名称/步骤序号,,,"部件组成与装配顺序",待逐项转录,"课程PDF第25页；两种食物图分别记录"
+P25-002,Sandwich and salad assembly,案例分类,底层数据组织,编目型,,"部件组成与装配顺序",结构判读,"视觉形式：爆炸分解/组装步骤图"
+P25-003,Sandwich and salad assembly,结构关系,节点/分类/连接,,,,"待从图面提取","需要逐项记录所有可见实体、层级、顺序、连接或空间位置"
+P25-004,Sandwich and salad assembly,数据来源,原始数据出处,,,,"待核验","若图面无来源说明则保持空值，不推测来源"
