@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P60-001,象形文字/符号系统/事件,历史阶段/符号系统,时期/阶段,,,"符号表达的历史演进",待逐项转录,"课程PDF第60页；需逐阶段转录文字与图例"
+P60-002,From hieroglyphics to Isotype,案例分类,底层数据组织,编年型,,"符号表达的历史演进",结构判读,"视觉形式：历史演进时间轴"
+P60-003,From hieroglyphics to Isotype,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P60-004,From hieroglyphics to Isotype,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
