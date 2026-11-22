@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P14-001,电路符号；吉他部件,符号/部件,名称/类别,,,"符号类别与部件标注",待逐项转录,"来源：课程PDF第14页；两种内容需分实体类型记录"
+P14-002,Circuit symbols and Queen Strat,案例分类,底层数据组织,编目型,,"符号类别与部件标注",结构判读,"视觉形式：符号目录+乐器标注图"
+P14-003,Circuit symbols and Queen Strat,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P14-004,Circuit symbols and Queen Strat,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
