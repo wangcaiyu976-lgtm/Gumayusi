@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P15-001,生活方式主题/指标,主题/指标,指标值/标签,,,"主题分组与环形组织",待逐项转录,"来源：课程PDF第15页；指标数值和标签需逐项核对"
+P15-002,Lifestyle infographic,案例分类,底层数据组织,编目型,,"主题分组与环形组织",结构判读,"视觉形式：环形主题信息图"
+P15-003,Lifestyle infographic,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P15-004,Lifestyle infographic,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
