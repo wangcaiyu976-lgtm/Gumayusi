@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P47-001,图标/插画/数据内容,视觉元素,元素角色/说明,,,"装饰元素与数据承载的区分",待逐项转录,"课程PDF第47页；此页偏方法论，非数值数据集"
+P47-002,Decorative illustrations vs data,案例分类,底层数据组织,编目型/论述,,"装饰元素与数据承载的区分",结构判读,"视觉形式：对照示例与评述"
+P47-003,Decorative illustrations vs data,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P47-004,Decorative illustrations vs data,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
