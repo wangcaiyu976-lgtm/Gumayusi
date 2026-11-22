@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P58-001,人物/历史事件/符号系统,人物/事件/符号,年份/符号含义,,,"历史发展与符号类别",待逐项转录,"课程PDF第58页；历史事件按时间、符号按类别分表"
+P58-002,Otto Neurath / ISOTYPE,案例分类,底层数据组织,编年型/编目型,,"历史发展与符号类别",结构判读,"视觉形式：历史说明/图例符号"
+P58-003,Otto Neurath / ISOTYPE,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P58-004,Otto Neurath / ISOTYPE,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
