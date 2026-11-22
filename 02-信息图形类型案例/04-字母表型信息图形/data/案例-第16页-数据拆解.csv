@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P16-001,食物/风味类别,食品/类别,名称/类别,,,"食品分类与类别归属",待逐项转录,"来源：课程PDF第16页；图中食品条目需逐项转录"
+P16-002,A World of Tastes,案例分类,底层数据组织,编目型,,"食品分类与类别归属",结构判读,"视觉形式：食品分类图鉴"
+P16-003,A World of Tastes,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P16-004,A World of Tastes,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
