@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P64-001,内容元素/风格元素,元素/类别,元素角色/说明,,,"信息内容与视觉风格分类对照",待逐项转录,"课程PDF第64页；概念比较，不假设定量值"
+P64-002,Content vs style / brain tree,案例分类,底层数据组织,编目型/比较,,"信息内容与视觉风格分类对照",结构判读,"视觉形式：内容与风格对照图"
+P64-003,Content vs style / brain tree,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P64-004,Content vs style / brain tree,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
