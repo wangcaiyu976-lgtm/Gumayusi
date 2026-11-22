@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P52-001,维度/变量/图形元素,变量/维度,维度数/属性,,,"数据维度数量与表达方式比较",待逐项转录,"课程PDF第52页；具体变量和维度待逐项列出"
+P52-002,Multidimensional vs unidimensional,案例分类,底层数据组织,编目型/比较,,"数据维度数量与表达方式比较",结构判读,"视觉形式：多维与单维对照图"
+P52-003,Multidimensional vs unidimensional,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P52-004,Multidimensional vs unidimensional,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
