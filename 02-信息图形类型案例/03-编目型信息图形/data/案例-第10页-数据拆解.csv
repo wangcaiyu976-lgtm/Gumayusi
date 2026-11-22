@@ -1,0 +1,4 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P10-001,人类/祖先或类别,节点/类群,谱系层级,,,"谱系与分类关系",待逐项转录,"来源：课程PDF第10页《Pedigree of Man》；不以推测补值"
+P10-002,Pedigree of Man,案例类型,底层数据组织,层级型,,"谱系与分类关系",图面结构判读,"视觉形式：人类谱系树；此项为结构分类，不是原始数值"
+P10-003,Pedigree of Man,数据范围,样本范围,,,,"待核验","需从原图标注或原始来源确认"
