@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P72-001,平台/网络节点/关系,平台/关系,平台名/连接,,,"平台节点与声誉关系",待逐项转录,"课程PDF第72页；需逐个提取平台标识和关系方向"
+P72-002,Online reputation map,案例分类,底层数据组织,地理图形型/网络,,"平台节点与声誉关系",结构判读,"视觉形式：在线声誉关系地图"
+P72-003,Online reputation map,结构字段,实体/关系/维度,,,,"待从原图提取","逐项记录图面实体、字段、连接、坐标、图例或分类项"
+P72-004,Online reputation map,数据来源,原始出处,,,,"待核验","未确认原始数据出处时留空，不以二手猜测补齐"
