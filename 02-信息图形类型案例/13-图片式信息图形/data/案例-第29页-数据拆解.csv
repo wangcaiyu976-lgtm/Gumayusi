@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P29-001,照片对象/指标,对象/指标,数值/单位,,,"对象与数值指标对应",待逐项转录,"课程PDF第29页；需逐张照片关联其指标"
+P29-002,Photo infographic with metrics,案例分类,底层数据组织,统计图形,,"对象与数值指标对应",结构判读,"视觉形式：照片注释数据图"
+P29-003,Photo infographic with metrics,结构关系,节点/分类/连接,,,,"待从图面提取","需要逐项记录所有可见实体、层级、顺序、连接或空间位置"
+P29-004,Photo infographic with metrics,数据来源,原始数据出处,,,,"待核验","若图面无来源说明则保持空值，不推测来源"
