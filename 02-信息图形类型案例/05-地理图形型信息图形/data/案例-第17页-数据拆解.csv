@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P17-001,园林区域/景点,地点/景点,位置/路径,,,"空间位置与路径关系",待逐项转录,"来源：课程PDF第17页；地名和路径需逐项转录"
+P17-002,Imperial garden map,案例分类,底层数据组织,地理图形型,,"空间位置与路径关系",结构判读,"视觉形式：园林导览地图"
+P17-003,Imperial garden map,图形结构,子图数量/构成,,,,"待核验","需按原图确认各分区、子图及图例"
+P17-004,Imperial garden map,数据质量,原始数据来源,,,,"未在图面确认","不能把图面转录值等同于原始数据"
