@@ -1,0 +1,5 @@
+record_id,entity,entity_type,attribute,value,unit,relationship,data_status,source_note
+P39-001,环层/节点/章节,环层/节点,标签/顺序,,,"环形层级或时间顺序待辨",待逐项转录,"课程PDF第39页；必须核对中心到外圈的实际语义"
+P39-002,Radial poster / chapter divider,案例分类,底层数据组织,编年型/待判,,"环形层级或时间顺序待辨",结构判读,"视觉形式：同心圆放射图/章节页"
+P39-003,Radial poster / chapter divider,结构字段,实体/关系/维度,,,,"待从原图提取","应逐项记录节点、边、分组、图例、坐标轴或空间位置，按本案例实际结构取舍"
+P39-004,Radial poster / chapter divider,数据来源,原始出处,,,,"待核验","没有可验证来源时不填写推测值"
